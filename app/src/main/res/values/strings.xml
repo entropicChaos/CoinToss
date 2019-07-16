@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoinToss</string>
+    <string name="toss_button">Toss It</string>
+    <string name="textView_result">HEAD or TAIL</string>
+</resources>
